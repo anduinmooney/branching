@@ -24,7 +24,7 @@ _If you have any thoughts or concerns, or would just like to get into contact wi
 
 ## Technologies Used
 
-_Atom, IntelliJ_
+_Java, Atom, IntelliJ_
 
 ### License
 
